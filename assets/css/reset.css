@@ -76,7 +76,7 @@ p, span, li {
   margin: 0;
   font-family: var(--para-font);
   color: var(--para-color);
-  line-height: 1.7;
+  line-height: 1;
   font-size: 16px;
 }
 a, span {
